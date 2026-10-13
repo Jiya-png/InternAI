@@ -1,0 +1,7 @@
+# Normalise line endings in the repository; keep the right endings on checkout.
+* text=auto
+*.bat text eol=crlf
+*.sh  text eol=lf
+*.png binary
+*.pdf binary
+*.docx binary

@@ -1,0 +1,14 @@
+# Render Blueprint (https://render.com/docs/blueprint-spec)
+# Deploys the single-container app (frontend + API) from the root Dockerfile.
+services:
+  - type: web
+    name: internai
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: starter            # free plan (512 MB) works with EMBEDDINGS=tfidf
+    envVars:
+      - key: INTERNAI_EMBEDDINGS
+        value: tfidf
+      - key: INTERNAI_CORS_ORIGINS
+        value: "*"
+    healthCheckPath: /api/health

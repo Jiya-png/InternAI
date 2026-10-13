@@ -1,0 +1,33 @@
+RAHUL MENON
+Senior Software Engineer
+rahul.menon.dev@outlook.com  •  +91-9876543210  •  Pune  •  github.com/rahulmenon
+
+SUMMARY
+Backend engineer with 5+ years of experience designing high-throughput Java microservices for e-commerce and
+payments. Strong in Spring Boot, Kafka, PostgreSQL and AWS; mentor to junior developers.
+
+WORK EXPERIENCE
+Senior Software Engineer, Cobalt Systems                                Aug 2022 – Present
+- Architected 6 Spring Boot microservices handling 3M+ orders per day with 99.95% uptime.
+- Introduced Apache Kafka event streaming, reducing order-processing latency by 40%.
+- Containerised services with Docker and Kubernetes (EKS); set up CI/CD with Jenkins and GitHub Actions.
+- Mentored 4 junior engineers and led code reviews.
+
+Software Engineer, BluePeak Software                                     Jul 2020 – Jul 2022
+- Built REST APIs in Java 11 and Hibernate for a payments platform used by 200+ merchants.
+- Optimized slow PostgreSQL queries with indexing, improving API response time by 55%.
+- Wrote JUnit and Mockito tests, raising coverage from 48% to 82%.
+
+Associate Software Engineer, Saffron Tech                                Jun 2019 – Jun 2020
+- Developed internal tools with Spring MVC and MySQL.
+- Responsible for bug fixes.
+
+EDUCATION
+B.E. Computer Engineering, College of Engineering Pune, 2015 – 2019 — CGPA 8.1
+
+SKILLS
+Java, Spring Boot, Spring, Hibernate, Microservices, REST, Apache Kafka, Redis, PostgreSQL, MySQL, Docker,
+Kubernetes, AWS (EC2, S3, Lambda), Jenkins, Git, Maven, JUnit, System Design, Design Patterns
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate (2023)

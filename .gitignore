@@ -1,0 +1,39 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+node_modules/
+frontend/dist/
+backend/internai.db
+backend/uploads/
+backend/app/ml/artifacts/
+backend/app/data/synthetic_resumes.csv
+backend/app/data/match_pairs.csv
+.env
+
+# --- secrets / credentials (never commit) ---
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+credentials*.json
+secrets*.json
+
+# --- generated / local files ---
+*.log
+*.sqlite
+*.sqlite3
+coverage/
+htmlcov/
+.coverage
+
+# --- editor / OS files ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

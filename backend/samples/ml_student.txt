@@ -1,0 +1,30 @@
+Arjun Rao
+arjun.rao.ai@gmail.com | +91 90000 11111 | Hyderabad | github.com/arjunrao-ml
+
+Objective
+Third-year AI & DS student looking for a Machine Learning / NLP internship.
+
+Education
+B.Tech in Artificial Intelligence and Data Science, IIIT Hyderabad (2023 - 2027), CGPA 9.1
+
+Projects
+Fake News Detector
+Tech stack: Python, PyTorch, Hugging Face Transformers, Streamlit
+• Fine-tuned a BERT model on 40K news articles reaching 94% F1 score.
+• Deployed the model as a web demo used by 300+ classmates.
+
+Customer Review Sentiment Analysis
+• Worked on sentiment analysis using NLTK and scikit-learn.
+• Did data cleaning.
+
+Resume Chatbot (RAG)
+• Built a retrieval-augmented generation chatbot with LangChain and FAISS over 500 PDF pages.
+
+Experience
+Research Intern, IIIT Hyderabad NLP Lab — Jun 2025 to Aug 2025
+• Responsible for data annotation.
+• Trained LSTM and transformer baselines for Telugu text classification, improving accuracy by 7%.
+
+Skills
+Python, C++, SQL, PyTorch, TensorFlow, Keras, scikit-learn, NLP, Deep Learning, Machine Learning, Pandas, NumPy,
+Git, Linux, Docker (basic), Statistics, Linear Algebra

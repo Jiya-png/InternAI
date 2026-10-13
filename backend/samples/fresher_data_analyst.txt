@@ -1,0 +1,36 @@
+Ananya Krishnan
+Bengaluru, India | ananya.krishnan@gmail.com | +91 98450 12345 | linkedin.com/in/ananya-krishnan
+
+PROFILE SUMMARY
+Final-year IT undergraduate who loves turning messy spreadsheets into clear decisions. Comfortable with SQL,
+Python (Pandas, NumPy) and building dashboards in Power BI.
+
+EDUCATION
+B.Tech, Information Technology — PES University, Bengaluru (2022 – 2026)
+CGPA: 8.62/10
+Class XII, Kendriya Vidyalaya — 91.4%
+
+TECHNICAL SKILLS
+Languages: Python, SQL, R (basics)
+Analytics: Pandas, NumPy, Matplotlib, Seaborn, Excel (Pivot Tables, VLOOKUP), Power BI, DAX
+Concepts: Data Cleaning, Exploratory Data Analysis, Statistics, Hypothesis Testing
+
+INTERNSHIP
+Data Analyst Intern — Lumen Fintech, Bengaluru                                   May 2025 – Jul 2025
+• Wrote 40+ SQL queries on PostgreSQL to analyse loan repayment behaviour of 1.2 lakh customers.
+• Built a Power BI dashboard tracking 12 KPIs that cut weekly reporting time by 6 hours.
+• Worked on data cleaning of customer records.
+
+PROJECTS
+Zomato Restaurant Analysis | Python, Pandas, Seaborn
+• Analysed 51,000 restaurant listings to identify pricing patterns across 30 Bangalore neighbourhoods.
+• Visualised rating vs cost trends and presented insights to a class of 60 students.
+IPL Win Predictor Dashboard | Excel, Power BI
+• Created an interactive dashboard of 15 seasons of match data with drill-downs by team and venue.
+
+CERTIFICATIONS
+• Google Data Analytics Professional Certificate (Coursera)
+• SQL (Intermediate) — HackerRank
+
+ACHIEVEMENTS
+• Top 5% in college data hackathon (2024); Member, Data Science Club

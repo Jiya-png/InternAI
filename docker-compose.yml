@@ -1,0 +1,29 @@
+# docker compose up --build   ->  website: http://localhost:8080   API docs: http://localhost:8000/docs
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+      args:
+        EMBEDDINGS: auto        # use "tfidf" for a lighter image / low-RAM machines
+    environment:
+      INTERNAI_CORS_ORIGINS: "http://localhost:8080"
+      INTERNAI_DB_URL: "sqlite:////data/internai.db"
+    volumes:
+      - internai-data:/data
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+
+volumes:
+  internai-data:
